@@ -4,7 +4,7 @@ The integration and analysis of three related
 datasets about books that are sold in bookstores is the main
 aim of this project analysis. The two structured CSV datasets
 and one semi-structured JSON dataset were carefully selected
-to allow for the logical connections. Extract, Transform, Load
+to allow for the logical connections.<br> Extract, Transform, Load
 (ETL) process was performed, that is the process of integrating
 the datasets into MongoDB programmatically using Python in
 the Jupyter Notebook environment was done. Then, in this
